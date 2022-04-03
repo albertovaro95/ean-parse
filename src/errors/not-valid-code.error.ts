@@ -1,0 +1,1 @@
+export const NOT_VALID_ERROR = "NOT VALID CODE";
